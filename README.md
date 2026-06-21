@@ -1,5 +1,5 @@
-# 💫 About Me:
-#👨‍💻 About Me<br><br>Hi, I'm P. Siva Teja<br><br>🎓 Artificial Intelligence & Data Science Student<br>💻 Frontend Developer passionate about creating modern and user-friendly web experiences<br>🚀 Exploring Artificial Intelligence, Machine Learning, Data Science, and Emerging Technologies<br>🌱 Continuously learning, building, and improving through real-world projects<br><br>
+
+<br><br>Hi, I'm P. Siva Teja<br><br>🎓 Artificial Intelligence & Data Science Student<br>💻 Frontend Developer passionate about creating modern and user-friendly web experiences<br>🚀 Exploring Artificial Intelligence, Machine Learning, Data Science, and Emerging Technologies<br>🌱 Continuously learning, building, and improving through real-world projects<br><br>
 
 
 ## 🌐 Socials:
